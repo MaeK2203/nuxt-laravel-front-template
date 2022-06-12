@@ -1,0 +1,1 @@
+# nuxt-laravel-front-template
